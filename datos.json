@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Holstein",
+        "continente": "Europa",
+        "origen": "Países bajos",
+        "descripcion": "Es la vaca lechera por excelencia, famosa por su pelaje blanco con manchas negras y su alta producción de leche.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/vaca%20holstein%20p.png?raw=true",
+        "fotos": ["vaca holstein 1.jpg", "vaca holstein 2.jpg", "vaca holstein 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Angus",
+        "continente": "Europa",
+        "origen": "Escocia",
+        "descripcion": "Popular en la producción de carne, de pelaje negro (o rojo en la variedad Red Angus), y conocida por la calidad y marmoleo de su carne.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/angus%20p.png?raw=true",
+        "fotos": ["angus 1.jpg", "angus 2.jpg", "angus 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Jersey",
+        "continente": "Europa",
+        "origen": "Isla de Jersey, Reino Unido.",
+        "descripcion": " Vaca lechera de tamaño pequeño, conocida por producir leche con un alto contenido de grasa y proteína..",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/jersey_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["Jersey 1.png", "Jersey 2.jpeg", "jersey 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Hereford",
+        "continente": "Europa",
+        "origen": "Inglaterra",
+        "descripcion": "Utilizada principalmente para carne, con pelaje rojo y cara blanca, adaptada a climas variados.",
+        "foto": "hhttps://github.com/terila/dno096-13/blob/main/img/hereford%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["hereford 1.jpg", "hereford 2.jpg", "hereford 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Charolais",
+        "continente": "Europa",
+        "origen": "Francia",
+        "descripcion": "Raza de carne de gran tamaño y pelaje blanco-crema, conocida por su rápido crecimiento y producción de carne magra.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/charolais%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["charolais 1.jpg", "charolais 2.jpg", "charolais 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Simmental",
+        "continente": "Europa",
+        "origen": "Suiza",
+        "descripcion": "Raza de doble propósito, apta para carne y leche, con un característico pelaje amarillo-rojizo y manchas blancas.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/simmental%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["simmental 1.jpeg", "simmetal 2.jpg", "simmental 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Limousin",
+        "fecha": "Europa",
+        "signo": "Francia",
+        "descripcion": "Raza de carne de color marrón claro, reconocida por su resistencia, eficiencia en la conversión de alimento y calidad de carne.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/limousin%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["limousin 1.jpg", "limousin 2.jpg", "Limousin 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Brahman",
+        "continente": "Asia",
+        "origen": "India",
+        "descripcion": "Adaptada a climas cálidos y áridos, de pelaje gris o blanco, con una característica joroba, popular en el trópico.",
+        "foto": "hhttps://github.com/terila/dno096-13/blob/main/img/braham%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["brahman 1.jpg", "brahman 2.jpg", "brahman 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Pardo Suizo",
+        "continente": "Europa",
+        "origen": "Suiza",
+        "descripcion": "Raza lechera de gran resistencia, conocida por su pelaje marrón y por producir leche con un equilibrio ideal para quesos.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/bs%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["bs 1.jpeg", "bs w.jpg", "bs 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Shorthorn",
+        "continente": "Europa",
+        "origen": "Inglaterra",
+        "descripcion": "Existen variedades lecheras y de carne, con pelaje rojo, blanco o mezclado, valorada por su versatilidad.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/shorthorn%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["shorthorn 1.jpg", "shorthorn2.jpg", "shorthorn 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+        {
+        "nombre": "Belga Azul",
+        "continente": "Europa",
+        "origen": "Bélgica",
+        "descripcion": "Conocida como la vaca musculosa, debido a su genética que produce un desarrollo muscular extraordinario, ideal para carne.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/belga%20azul%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["belga azu 1.jpg", "belga azul 2.png", "belga azul 3.jpg"],
+        "github": "https://github.com/terila"
+    },
+        {
+        "nombre": "Ayrshire",
+        "continente": "Europa",
+        "origen": "Escocia",
+        "descripcion": "Raza lechera resistente y adaptable, con pelaje marrón y blanco, que produce leche de alta calidad para productos lácteos.",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/ayrshire%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "fotos": ["ayrshire 1.jpeg", "ayrshire 2.jpeg", "ayrshire 3.jpeg"],
+        "github": "https://github.com/terila"
+    }
+]
+]
