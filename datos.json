@@ -31,7 +31,7 @@
         "continente": "Europa",
         "origen": "Inglaterra",
         "descripcion": "Utilizada principalmente para carne, con pelaje rojo y cara blanca, adaptada a climas variados.",
-        "foto": "hhttps://github.com/terila/dno096-13/blob/main/img/hereford%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/hereford%20p_Mesa%20de%20trabajo%201.png?raw=true",
         "fotos": ["hereford 1.jpg", "hereford 2.jpg", "hereford 3.jpg"],
         "github": "https://github.com/terila"
     },
@@ -67,7 +67,7 @@
         "continente": "Asia",
         "origen": "India",
         "descripcion": "Adaptada a climas cálidos y áridos, de pelaje gris o blanco, con una característica joroba, popular en el trópico.",
-        "foto": "hhttps://github.com/terila/dno096-13/blob/main/img/braham%20p_Mesa%20de%20trabajo%201.png?raw=true",
+        "foto": "https://github.com/terila/dno096-13/blob/main/img/braham%20p_Mesa%20de%20trabajo%201.png?raw=true",
         "fotos": ["brahman 1.jpg", "brahman 2.jpg", "brahman 3.jpg"],
         "github": "https://github.com/terila"
     },
