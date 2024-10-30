@@ -1,0 +1,101 @@
+[
+    {
+        "nombre": "Tensoesctructura",
+        "fecha": "2022",
+        "signo": "industrial",
+        "descripcion": "Silla de 50cm x 50cm la cual tenía que tener la que se debía guiar por el principio de la tensoestructura siendo esta su principal carácteristica, y pudiendo soportar 50kg.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-04.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/TENS-02.jpg?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Lámpara de escritorio",
+        "fecha": "2022",
+        "signo": "industrial",
+        "descripcion": "Lámpara de escritorio de estilo cyber punk hecha con 3 materiales, uno laminar, uno que se pudiera moldear o aplique en un molde, y uno que venga en formato lineal.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-02.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/plan-02.png?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Carátula de vinilo",
+        "fecha": "2023",
+        "signo": "grafico",
+        "descripcion": "Serie de cáratulas de vinilo desarrollada en torno a la intérprete Mahani Teave, originaria de Isla de Pascua, siendo estas las plantillas que utilice para crear la carátula.",
+        "foto": "https://github.com/terila/dno096-12/blob/main/img/ver.png?raw=true",
+        "fotos": ["am.png", "roj.png", "ver.png"],
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Espacio expositivo emprendedores",
+        "fecha": "2022",
+        "signo": "industrial",
+        "descripcion": "Espacio expositivo modular para los emprendedores de puente alto, el cual no tuviera tanta dificultad de transporte.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-05.jpg?raw=truee",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/plan-02.png?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Solarigrafía",
+        "fecha": "2024",
+        "signo": "fotografia",
+        "descripcion": "Imagen del recorrido del sol durante una semana en una cámara hecha de latas de bebidas con un papel de fotografía en el interior.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-06.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/latas-02.png?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Papá",
+        "fecha": "2024",
+        "signo": "fotografia",
+        "descripcion": "Imagen de doble exposición sacada con una cámara de cartón, y rollo fotográfico.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-07.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/camaras-02.png?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Calentamiento global",
+        "fecha": "2020",
+        "signo": "grafico",
+        "descripcion": "Ilustración que genera incomodidad frente al cambio climático y busca generar un cambio.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-03.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/p1.PNG?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "D'fruta",
+        "fecha": "2024",
+        "signo": "otros",
+        "descripcion": "Proyecto en base a fruta desperdiciada de las agricultoras, la cual es un bocado frío hecho con la pulpa y cascara de distintas frutas.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-08.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/d2-02.png?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Web Panamericanos",
+        "fecha": "2023",
+        "signo": "otros",
+        "descripcion": "Prototipo web hecho en Figma el cual explica los puntos y en que consiste los distintos juegos de los panamericanos y los parapanamericanos.Se llega a la web a través de carteles con un código qr en el mismo evento",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-09.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/pare-02.png?raw=true",
+        "github": "https://github.com/terila"
+    },
+    {
+        "nombre": "Poliqueto Terebelido",
+        "fecha": "2023",
+        "signo": "grafico",
+        "descripcion": "Modelado en 3d de un poliqueto terebelido, realizado como proyecto personal en Taller 8 para aprender a usar blender.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-10.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/poli2-02.png?raw=true",
+        "github": "https://github.com/terila"
+    },
+        {
+        "nombre": "Modelaje",
+        "fecha": "2024",
+        "signo": "otros",
+        "descripcion": "Participé como ayuda en un proyecto textil modelando en el exámen para desfile e imágenes.",
+        "foto": "https://github.com/terila/Dno096-9/blob/main/img-11.jpg?raw=true",
+        "fotos": "https://github.com/terila/Dno096-9/blob/main/luby2-02.png?raw=true",
+        "github": "https://github.com/terila"
+    }
+]
