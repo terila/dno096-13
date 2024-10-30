@@ -89,7 +89,7 @@
         "fotos": ["shorthorn 1.jpg", "shorthorn2.jpg", "shorthorn 3.jpg"],
         "github": "https://github.com/terila"
     },
-        {
+    {
         "nombre": "Belga Azul",
         "continente": "Europa",
         "origen": "Bélgica",
@@ -98,7 +98,7 @@
         "fotos": ["belga azu 1.jpg", "belga azul 2.png", "belga azul 3.jpg"],
         "github": "https://github.com/terila"
     },
-        {
+    {
         "nombre": "Ayrshire",
         "continente": "Europa",
         "origen": "Escocia",
@@ -108,4 +108,3 @@
         "github": "https://github.com/terila"
     }
 ]
-
